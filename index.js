@@ -10,7 +10,7 @@ module.exports = {
    * @returns Array[Objects]
    */
   iconsListByStyle(style) {
-    return data.filter((ic) => ic.classes.includes(style));
+    return data.filter((ic) => ic.styles.includes(style));
   },
   /**
    * @description get list of searched icons

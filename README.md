@@ -18,6 +18,10 @@ A package to get all icons name from fontawesome free version
 yarn add fontawesome-5-icons-list
 ```
 
+## Example Output
+
+![Example Output screenshot](./screenshot.png)
+
 ## Usage
 
 ### Get All
@@ -46,7 +50,7 @@ console.log(iconsListByStyle("regular")); // array of objects contains the icons
 
 ## Changelog
 
-[read from here](./CHANGELOG)
+[read from here](./CHANGELOG.md)
 
 ## LICENSE
 
